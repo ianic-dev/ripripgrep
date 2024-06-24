@@ -1,0 +1,5 @@
+pcre 8.45-4
+dbus-broker-units 36-2
+uchardet 0.0.8-2
+gmp 6.3.0-2
+a52dec 0.8.0-2
